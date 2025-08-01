@@ -1,0 +1,4 @@
+version: STSv1
+mode: enforce
+mx: ontzorgdesk-nl.t-v1.mx.microsoft
+max_age: 1209600
